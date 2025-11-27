@@ -14,7 +14,12 @@
 
 <h2> Screenshot</h2>
 <img src="https://github.com/vic530/easy-shopping/blob/main/img/print%20para%20pc%20.png?raw=true"/>
-<br>
+
+<div align="center">
+  <a href="https://vic530.github.io/easy-shopping" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Acessar o Projeto-9499ea?style=for-the-badge" alt="Acessar Projeto"/>
+  </a>
+</div>
 
  <h2>👨‍💻 Autor</h2>
 <p>Victor Dantas</p>
